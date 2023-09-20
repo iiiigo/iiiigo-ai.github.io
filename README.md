@@ -1,1 +1,1 @@
-# iiiigo-ai.github.io
+# iiiigo.ai.github.io
